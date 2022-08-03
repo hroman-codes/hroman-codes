@@ -59,20 +59,20 @@ I am passionate about learning from others and always interested in advancing my
 
 ### Currently working on
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=getromandev&repo=codingChallenges)](https://github.com/getromandev/codingChallenges)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=getromandev&repo=hrcodes)](https://github.com/getromandev/hrcodes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hroman-codes&repo=codingChallenges)](https://github.com/hroman-codes/codingChallenges)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hroman-codes&repo=hrcodes)](https://github.com/hroman-codes/hrcodes)
 
 ---
 
 ### Github stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=getromandev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hroman-codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getromandev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroman-codes)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
