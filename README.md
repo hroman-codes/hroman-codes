@@ -38,19 +38,16 @@ I am passionate about learning from others and always interested in advancing my
   <a target="_blank" href="https://www.youtube.com/channel/UCWLLLB21WpFoNklfx1et25A">
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
-  <a target="_blank" href="https://twitter.com/builtByGetroman">
+  <a target="_blank" href="https://twitter.com/hroman_codes">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/built_by_getroman/">
+  <a target="_blank" href="https://www.instagram.com/hroman_codes/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/heribertoroman/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a target="_blank" href="https://dev.to/getroman_dev">
-    <img alt="DEV" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-   <a target="_blank" href="https://builtbygetroman.medium.com/">
+   <a target="_blank" href="https://hroman-codes.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
    </a>
 </p>
