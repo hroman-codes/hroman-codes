@@ -77,6 +77,3 @@ I am passionate about learning from others and interested in advancing my softwa
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=builtByGetroman)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<a href="https://app.daily.dev/hroman_codes"><img src="https://api.daily.dev/devcards/cf2d97c5d8054a18b83106a8d0b209a0.png?r=hil" width="400" alt="Heriberto Roman's Dev Card"/></a>
-
