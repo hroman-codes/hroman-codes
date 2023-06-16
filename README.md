@@ -4,7 +4,7 @@
 
 My name is Heriberto Roman. I am a self-taught Software Engineer and Technical Instructor. I worked for startups in techEd, higher education, food tech, and the non-profit sector.
 
-I am passionate about learning from others and always interested in advancing my software architecture skills and cloud computing strategies. I'd love for my next role to be at a company that values mentorship and diversity.
+I am passionate about learning from others and interested in advancing my software architecture skills and cloud computing strategies. I'd love for my next role to be at a company that values mentorship and diversity.
 
 ---
  
@@ -77,4 +77,6 @@ I am passionate about learning from others and always interested in advancing my
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=builtByGetroman)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://app.daily.dev/hroman_codes"><img src="https://api.daily.dev/devcards/cf2d97c5d8054a18b83106a8d0b209a0.png?r=hil" width="400" alt="Heriberto Roman's Dev Card"/></a>
 
