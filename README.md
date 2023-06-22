@@ -56,7 +56,7 @@ I am passionate about learning from others and interested in advancing my softwa
 
 ### Currently working on
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hroman-codes&repo=codingChallenges)](https://github.com/hroman-codes/codingChallenges)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hroman-codes&repo=theseeker-ai/rec_eng_if_mvp)](https://github.com/theseeker-ai/rec_eng_if_mvp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hroman-codes&repo=hrcodes)](https://github.com/hroman-codes/hrcodes)
 
 ---
