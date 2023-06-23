@@ -54,13 +54,6 @@ I am passionate about learning from others and interested in advancing my softwa
 
 ---
 
-### Currently working on
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hroman-codes&repo=theseeker-ai/rec_eng_if_mvp)](https://github.com/theseeker-ai/rec_eng_if_mvp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hroman-codes&repo=hrcodes)](https://github.com/hroman-codes/hrcodes)
-
----
-
 ### Github stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hroman-codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
