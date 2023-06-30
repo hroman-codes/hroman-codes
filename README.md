@@ -2,9 +2,15 @@
 
 ### Hi there welcome to my GitHub page 👋!
 
-My name is Heriberto Roman. I am a self-taught Software Engineer and Technical Instructor. I worked for startups in techEd, higher education, food tech, and the non-profit sector.
+Hello, my name is Heriberto Roman I am a non-traditional self-taught Software Engineer. I got my start in tech during my time with LatinosinHigherEd.com while working as a manager there I was exposed to the opportunity to work on some front-end tasks using HTML, CSS, and Javascript via the way of Dreamweaver. I’ve held a few positions in tech since then in different capacities.
 
-I am passionate about learning from others and interested in advancing my software architecture skills and cloud computing strategies. I'd love for my next role to be at a company that values mentorship and diversity.
+Most recently I spent 1 year with Tiny Organics as a Full-Stack Software Engineer. Tiny is an e-commerce platform that sells organic baby food we utilized Python and Django on the backend with React and Redux on the front end and I was part of a re-platform team.
+
+The product at the time outgrew Shopify so there was a need to grow and customize the platform. I worked with 3 other engineers and an engineering manager to help build out new features. Aside from the re-platform team I was responsible for triaging incoming bugs reported by various stakeholders.
+
+To date, I spend my time as a freelance software engineer and was recently selected for a competitive Fellowship program to work alongside software engineers from top companies to level up my engineering skillset and strengthen my CS fundamentals.
+
+Moving forward I am looking for a role as a full-stack engineer that will allow me to make an impact and take ownership of the software.
 
 ---
  
