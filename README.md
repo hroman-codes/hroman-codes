@@ -1,5 +1,24 @@
 <img src="https://user-images.githubusercontent.com/6291731/180018991-20c50c56-6e35-4d27-982e-3c77abb11c9d.png" alt="banner" />
 
+```
+class SoftwareEngineer:
+
+  def __init__(self):
+    self.name = 'Heriberto Roman'
+    self.role = 'Software Engineer'
+    self.programing_language = ['Python', 'Javascript']
+
+  def about_me(self):
+    print('Hello, my name is Heriberto Roman. I am a self-starter and comfortable dealing with ambiguity and challenging problems. I got my start in tech with a startup called LatinosinHigherEd.com, where I spent 9 years as a VP. During this time, I had the opportunity to work on some front-end tasks using HTML, CSS, and Javascript, primarily through Dreamweaver. Over time, I realized that I loved building software and wanted to be more analytical as an individual contributor. As a result, I sought out mentorship to help start my career as a developer.
+
+Since then, I've held a few positions in tech in different capacities. Most recently, I spent 1 year with Tiny Organics as a Full-Stack Software Engineer. Tiny is an e-commerce platform that sells organic baby food. We utilized Python and Django on the backend, and React and Redux on the frontend. I was part of a re-platform team, as the product had outgrown Shopify and required growth and customization. Collaborating with 3 other engineers and an engineering manager, I helped build out new features. In addition to the re-platform team, I was responsible for triaging incoming bugs from the legacy codebase reported by various stakeholders.
+
+To date, I have spent my time as a freelance software engineer working on several projects. I was also selected for a competitive Fellowship program, where I had the opportunity to work alongside software engineers from top companies to level up my engineering skillset and strengthen my CS fundamentals.
+Moving forward, I am looking for a role as a full-stack engineer that will allow me to make an impact and take ownership of the software.')
+
+
+```
+
 ### Hi there welcome to my GitHub page 👋!
 
 Hello, my name is Heriberto Roman I am a non-traditional self-taught Software Engineer. I got my start in tech during my time with LatinosinHigherEd.com while working as a manager there I was exposed to the opportunity to work on some front-end tasks using HTML, CSS, and Javascript via the way of Dreamweaver. I’ve held a few positions in tech since then in different capacities.
