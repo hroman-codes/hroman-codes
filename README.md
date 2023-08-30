@@ -68,11 +68,11 @@ Moving forward I am looking for a role as a full-stack engineer that will allow 
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroman-codes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroman_codes)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Wakatime week stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=builtByGetroman)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hroman_codes)](https://github.com/anuraghazra/github-readme-stats)
 
