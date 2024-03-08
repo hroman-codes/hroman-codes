@@ -12,15 +12,17 @@ class SoftwareEngineer:
 
 ### Hi there welcome to my GitHub page 👋!
 
-Hello, my name is Heriberto Roman I am a non-traditional self-taught Software Engineer. I got my start in tech during my time with LatinosinHigherEd.com while working as a manager there I was exposed to the opportunity to work on some front-end tasks using HTML, CSS, and Javascript via the way of Dreamweaver. I’ve held a few positions in tech since then in different capacities.
+Hello, my name is Heriberto Roman. I am a Freelance Dev comfortable with dealing with ambiguity and tackling challenging problems. I got my start in tech with a startup called LatinosinHigherEd.com, where I spent 9 years as a Web Developer. During this time, I had the opportunity to work on various front-end tasks using HTML, CSS, and JavaScript, primarily through Dreamweaver. Over time, I realized that I loved building software and wanted to be more analytical as an individual contributor. As a result, I sought out mentorship to help kickstart my career as a developer.
 
-Most recently I spent 1 year with Tiny Organics as a Full-Stack Software Engineer. Tiny is an e-commerce platform that sells organic baby food we utilized Python and Django on the backend with React and Redux on the front end and I was part of a re-platform team.
+Since then, I've held a variety of positions in tech in different capacities. Most recently, I worked with The Seeker, a startup that expedites job matching for candidates and employers through referrals and networking. I am currently working on their backend implementation, data modeling, and have implemented user registration and login functionality, enabling seamless user authentication and data management while setting up deployment pipelines. I am also tackling there frontend with react and Django templates where needed. 
 
-The product at the time outgrew Shopify so there was a need to grow and customize the platform. I worked with 3 other engineers and an engineering manager to help build out new features. Aside from the re-platform team I was responsible for triaging incoming bugs reported by various stakeholders.
+Im also a PT technical instructor @ an Agtech company called the urban wild where I teach a cohort intro to web development and currently working on a plant API that detects and ID’s plants and there disease if any. 
+
+Additionally, I spent 1 year with Tiny Organics as a Full-Stack Software Engineer. Tiny is an e-commerce platform that sells organic baby food. We utilized Python and Django on the backend, and React and Redux on the frontend. I was part of a re-platform team as the product had outgrown Shopify and required growth and customization. Collaborating with three other engineers and an engineering manager, I helped build out new features. In addition to the re-platform team, I was responsible for triaging incoming bugs from the legacy codebase reported by various stakeholders.
 
 To date, I spend my time as a freelance software engineer and was recently selected for a competitive Fellowship program to work alongside software engineers from top companies to level up my engineering skillset and strengthen my CS fundamentals.
 
-Moving forward I am looking for a role as a full-stack engineer that will allow me to make an impact and take ownership of the software.
+For fun I am huge hockey guy, my family is big on hockey and I have a dog named Gretzky.   I am seeking a role as a full-stack engineer that will allow me to make a significant impact and take ownership of the software.
 
 ---
  
